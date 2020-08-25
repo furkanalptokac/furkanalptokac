@@ -12,7 +12,7 @@
 - 📖 Currently working on -> **MERN Stack** and **Javascript technologies**.
 - 😍 I'm overly interested in UI/UX design with **Figma**, **Sketch**, **Xd**, **InVision Studio**.
 - 🎛️ I'm electronic music virtuoso and also producer with **FL Studio**, **Ableton**, **Logic Pro X**.
-- 🎮 I love games.
+- 🎮 I love video games.
 -  Apple ecosystem user.
 - 🔬 I research any kind of technologies.
 - 📇 Contact with me any kind of way for resume.
