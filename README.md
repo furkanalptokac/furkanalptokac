@@ -8,9 +8,9 @@
 ![furkanalptokac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanalptokac&theme=onedark)
 
 - 👨‍💻 21 y.o developer.
-- 👨‍🎓 Studying Computer Engineering in Turkey (4/4).
+- 👨‍🎓 Studying Computer Engineering at Suleyman Demirel University, Turkey (4/4).
 - 📖 Currently working on -> **MERN Stack** and **Javascript technologies**.
-- 😍 I'm overly interested in UI/UX design with **Figma**, **Sketch**, **Xd**, **InVision Studio**.
+- 😍 I'm overly interested in UI/UX design with **Figma**, **Sketch**, **Xd**, **InVision Studio**, **Zeplin**.
 - 🎛️ I'm electronic music virtuoso and also producer with **FL Studio**, **Ableton**, **Logic Pro X**.
 - 🎮 I love video games.
 -  Apple ecosystem user.
