@@ -11,6 +11,5 @@ module.exports = {
             5: "Researching any kind of technologies"
         },
     },
-    currentSetup: "2018 13\" Macbook Pro",
-    terminal: "zsh with Hyper"
+    currentSetup: "2018 13\" Macbook Pro"
 }
