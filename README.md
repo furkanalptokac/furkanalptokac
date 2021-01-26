@@ -10,7 +10,7 @@
 ```javascript
 module.exports = {
     me: {
-        age: 21,
+        age: 22,
         school: "Suleyman Demirel University, Turkey (4/4)",
         currentlyWorkingOn: "MERN Stack, Javascript technologies",
         interests: {
