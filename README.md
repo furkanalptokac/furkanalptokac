@@ -21,7 +21,7 @@ module.exports = {
             5: "Researching any kind of technologies"
         },
     },
-    currentSetup: "2018 13\" Macbook Pro"
+    currentSetup: "2018 13\" Macbook Pro, Raspberry Pi 3 B+"
 }
 ```
 
