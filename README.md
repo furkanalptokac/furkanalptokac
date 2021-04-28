@@ -4,8 +4,8 @@
 [![furkanalp.com](https://img.shields.io/static/v1?label=furkanalp.com&message=%20&color=orange&logo=&style=flat-square&logoColor=white)](https://furkanalp.com/)
 [![me@furkanalp.com](https://img.shields.io/static/v1?label=me@furkanalp.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@furkanalp.com)
 
-[![furkanalptokac's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalptokac&layout=compact&show_icons=true&theme=onedark)](https://github.com/furkanalptokac?tab=repositories)
 ![furkanalptokac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanalptokac&theme=onedark)
+[![furkanalptokac's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalptokac&layout=compact&show_icons=true&theme=onedark)](https://github.com/furkanalptokac?tab=repositories)
 
 ```javascript
 module.exports = {
