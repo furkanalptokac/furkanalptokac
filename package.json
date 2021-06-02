@@ -1,0 +1,9 @@
+{
+  "name": "furkanalptokac",
+  "version": "1.0.0",
+  "description": "Personal repository.",
+  "main": "index.js",
+  "repository": "https://github.com/furkanalptokac/furkanalptokac.git",
+  "author": "Furkan Alp Tokaç <furkanalptokac@gmail.com>",
+  "license": "MIT"
+}

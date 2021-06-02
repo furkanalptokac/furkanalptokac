@@ -1,6 +1,6 @@
 module.exports = {
     me: {
-        age: 21,
+        age: 22,
         school: "Suleyman Demirel University, Turkey (4/4)",
         currentlyWorkingOn: "MERN Stack, Javascript technologies",
         interests: {
@@ -10,6 +10,6 @@ module.exports = {
             4: "Apple ecosystem user",
             5: "Researching any kind of technologies"
         },
-    },
-    currentSetup: "2018 13\" Macbook Pro"
+        currentlyHackingOn: "2018 13\" Macbook Pro"
+    }
 }
