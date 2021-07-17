@@ -11,7 +11,7 @@
 module.exports = {
     me: {
         age: 22,
-        school: "Suleyman Demirel University, Turkey (4/4)",
+        school: "Suleyman Demirel University, Turkey (Graduated)",
         currentlyWorkingOn: "MERN Stack, Javascript technologies",
         interests: {
             1: "UI/UX design with Figma, Sketch, Xd, InVision Studio, Zeplin",
