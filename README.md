@@ -11,6 +11,7 @@
 module.exports = {
     me: {
         age: 22,
+        website: https://furkanalp.com
         school: "Suleyman Demirel University Computer Engineering, Turkey (Graduated 2021)",
         currentlyWorkingOn: "MERN Stack, Javascript technologies",
         interests: {
