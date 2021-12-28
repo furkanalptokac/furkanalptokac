@@ -13,7 +13,7 @@ module.exports = {
         age: 22,
         website: "https://furkanalp.com",
         school: "Suleyman Demirel University Computer Engineering, Turkey (Graduated 2021)",
-        currentlyWorkingOn: "MERN Stack, Javascript technologies",
+        currentlyWorkingOn: "MERN Stack, JavaScript technologies",
         interests: {
             1: "UI/UX design with Figma, Sketch, Xd, InVision Studio, Zeplin",
             2: "Electronic music virtuoso and also producer with FL Studio, Ableton, Logic Pro X...",
