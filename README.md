@@ -10,16 +10,17 @@
 ```javascript
 module.exports = {
     me: {
-        age: 22,
+        age: 23,
+        job: "Computer Engineer",
         website: "https://furkanalp.com",
-        school: "Suleyman Demirel University Computer Engineering, Turkey (Graduated 2021)",
-        currentlyWorkingOn: "MERN Stack, JavaScript technologies",
+        currentlyWorkingOn: "Currently focusing on Frontend technologies.",
+        techStack: "TypeScript + React",
         interests: {
-            1: "UI/UX design with Figma, Sketch, Xd, InVision Studio, Zeplin",
-            2: "Electronic music virtuoso and also producer with FL Studio, Ableton, Logic Pro X...",
-            3: "Video games",
-            4: "Apple ecosystem user",
-            5: "Researching any kind of technologies"
+            1: "Full stack with JS technologies."
+            2: "UI/UX design with Figma, Sketch, Xd, InVision Studio, Zeplin",
+            3: "Electronic music virtuoso and also producer with FL Studio, Ableton, Logic Pro X...",
+            4: "Video games",
+            5: "Apple ecosystem user",
         },
         currentlyHackingOn: "2018 13\" Macbook Pro, Raspberry Pi 3 B+"
     }
