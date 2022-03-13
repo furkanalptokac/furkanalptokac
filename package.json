@@ -1,8 +1,10 @@
 {
   "name": "furkanalptokac",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "Personal repository.",
   "main": "index.js",
+  "types": "index.d.ts",
+  "type": "module",
   "repository": "https://github.com/furkanalptokac/furkanalptokac.git",
   "author": "Furkan Alp Tokaç <furkanalptokac@gmail.com>",
   "license": "MIT"

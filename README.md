@@ -8,23 +8,19 @@
 [![furkanalptokac's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalptokac&layout=compact&show_icons=true&theme=onedark)](https://github.com/furkanalptokac?tab=repositories)
 
 ```javascript
-module.exports = {
-    me: {
-        age: 23,
-        job: "Computer Engineer",
-        website: "https://furkanalp.com",
-        currentlyWorkingOn: "Currently focusing on Frontend technologies.",
-        techStack: "TypeScript + React",
-        interests: {
-            1: "Full stack with JS technologies."
-            2: "UI/UX design with Figma, Sketch, Xd, InVision Studio, Zeplin",
-            3: "Electronic music virtuoso and also producer with FL Studio, Ableton, Logic Pro X...",
-            4: "Video games",
-            5: "Apple ecosystem user",
-        },
-        currentlyHackingOn: "2018 13\" Macbook Pro, Raspberry Pi 3 B+"
-    }
-}
+export const me = {
+    job: "Computer Engineer",
+    website: "https://furkanalp.com",
+    github: "https://github.com/furkanalptokac",
+    currentlyWorkingOn: "Frontend based w/ TypeScript + React.",
+    interests: {
+        1: 'Full stack with JS technologies.',
+        2: 'Competitive programming.',
+        3: 'Pixel art, UI/UX design, graphic design, illustration... w/ Figma, Zeplin, Sketch, XD, PS, AI...',
+        4: 'Electronic music producer & composer w/ FL Studio, Ableton, Logic Pro...',
+        5: 'Former level designer. Still playing video games & chess.',
+    },
+};
 ```
 
 ![](https://komarev.com/ghpvc/?username=furkanalptokac&color=orange)
