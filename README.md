@@ -23,6 +23,8 @@ export const me = {
 };
 ```
 
+```npx furkanalptokac```
+
 ![](https://komarev.com/ghpvc/?username=furkanalptokac&color=orange)
 
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>

@@ -1,8 +1,10 @@
 {
   "name": "furkanalptokac",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Personal repository.",
-  "main": "index.js",
+  "bin": {
+    "furkanalptokac": "index.js"
+  },
   "types": "index.d.ts",
   "type": "module",
   "repository": "https://github.com/furkanalptokac/furkanalptokac.git",

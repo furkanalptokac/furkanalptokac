@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 export const me = {
     job: "Computer Engineer",
     website: "https://furkanalp.com",
