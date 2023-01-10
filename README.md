@@ -10,7 +10,7 @@
 ```javascript
 export const me = {
     bsc: 'Computer Engineer',
-    position: 'Full Stack JavaScript Developer'
+    position: 'Full Stack JavaScript Developer',
     website: "https://furkanalp.com",
     github: "https://github.com/furkanalptokac",
     workingOn: "Frontend based GIS projects. w/ JS + TS + React",
