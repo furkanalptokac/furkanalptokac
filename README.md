@@ -2,18 +2,18 @@
 
 [![furkanalptokac Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/furkanalptokac/) 
 [![furkanalp.com](https://img.shields.io/static/v1?label=furkanalp.com&message=%20&color=orange&logo=&style=flat-square&logoColor=white)](https://furkanalp.com/)
-[![furkan@furkanalp.com](https://img.shields.io/static/v1?label=me@furkanalp.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:furkan@furkanalp.com)
+[![furkan@furkanalp.com](https://img.shields.io/static/v1?label=furkan@furkanalp.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:furkan@furkanalp.com)
 
 ![furkanalptokac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanalptokac&theme=onedark)
 [![furkanalptokac's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalptokac&layout=compact&show_icons=true&theme=onedark)](https://github.com/furkanalptokac?tab=repositories)
 
-```javascript
+```typescript
 export const me = {
     bsc: 'Computer Engineer',
     position: 'Full Stack JavaScript Developer',
     website: "https://furkanalp.com",
     github: "https://github.com/furkanalptokac",
-    workingOn: "Frontend based GIS projects. w/ JS + TS + React",
+    stack: "React, Next, Tailwind, Angular, Vue, Node, Rollup, Vite, Docker",
 };
 ```
 
