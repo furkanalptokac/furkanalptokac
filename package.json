@@ -1,7 +1,7 @@
 {
   "name": "furkanalptokac",
-  "version": "0.0.6",
-  "description": "Personal repository.",
+  "version": "0.0.7",
+  "description": "Furkan Alp Tokaç — web applications, GIS, and reusable interfaces.",
   "bin": {
     "furkanalptokac": "index.js"
   },
@@ -9,5 +9,8 @@
   "type": "module",
   "repository": "https://github.com/furkanalptokac/furkanalptokac.git",
   "author": "Furkan Alp Tokaç <furkanalptokac@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
