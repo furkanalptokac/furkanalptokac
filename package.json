@@ -1,6 +1,6 @@
 {
   "name": "furkanalptokac",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Furkan Alp Tokaç — web applications, GIS, and reusable interfaces.",
   "bin": {
     "furkanalptokac": "index.js"
